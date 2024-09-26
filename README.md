@@ -104,7 +104,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="rest" title="REST API"/>
-      <img width="30px" src="https://user-images.githubusercontent.com/25181517/251235844-48f00e5f-5e98-4b53-b92f-b43f94921ff2.png" alt="graphql" title="GraphQL"/>
+      <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" title="GraphQL"/>
     </kbd>
     <kbd>
       <kbd>Database</kbd>
