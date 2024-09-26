@@ -76,16 +76,66 @@
 
 ---
 
-### 🛠️ Skills
+<details>
+<summary>Tools</summary>
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Programming Languages</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="PHP"/> 
+    </kbd>
+    <kbd>
+      <kbd>Frontend</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS3"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="React.js"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" title="Next.js"/>
+    </kbd>
+    <kbd>
+      <kbd>Backend</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
+      <img width="30px" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="rest" title="REST API"/>
+      <img width="30px" src="https://user-images.githubusercontent.com/25181517/251235844-48f00e5f-5e98-4b53-b92f-b43f94921ff2.png" alt="graphql" title="GraphQL"/>
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" title="Google Firebase"/>
+    </kbd>
+    <kbd>
+      <kbd>OS & Networking</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" title="Windows"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" title="AWS"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git"/>
+    </kbd>
+    <kbd>
+      <kbd>Tools</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode" title="Visual Studio Code"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" alt="adobe" title="Adobe XD"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" title="Postman"/>
+    </kbd>
+  </p>
+</div>
+</details>
 
-- **Languages**: JavaScript (ES6+), Python, Java, PHP, HTML5, CSS3
-- **Frameworks**: React.js, Next.js, Tailwind CSS
-- **APIs**: REST APIs, GraphQL
-- **Operating Systems**: Ubuntu, Kali Linux
-- **Version Control**: Git, GitHub, Bitbucket
-- **Tools**: Visual Studio Code, Figma, Adobe XD
-- **Planned Learning**: TypeScript
-- **Soft Skills**: Strong problem-solving skills, effective communication, self-motivated, curiosity, flexibility, accountability, teamwork
 
 ---
 
