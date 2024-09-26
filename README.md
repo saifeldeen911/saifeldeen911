@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Saifeldeen M. Khalaf</h1>
-<h3 align="center">Freelance Full Stack Web Developer</h3>
+<h3 align="center">Web Developer | Freelancer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -22,12 +22,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/saifeldeen-mohamed-khalaf/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Saifeldeen Khalaf" height="40" width="40" />
-  </a>
-  <a href="https://github.com/saifeldeen-khalaf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Saifeldeen Khalaf" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/saifeldeen_khalaf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Saifeldeen Khalaf" height="40" width="40" />
   </a>
   <a href="https://wa.me/+201111138114" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Saifeldeen Khalaf" height="40" width="40" />
