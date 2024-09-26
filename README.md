@@ -115,7 +115,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" title="Google Firebase"/>
     </kbd>
     <kbd>
-      <kbd>OS & Networking</kbd>
+      <kbd>OS, Networking & Deployment</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" title="Windows"/>
