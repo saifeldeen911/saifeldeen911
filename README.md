@@ -9,8 +9,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Objective**: Frontend Developer with hands-on experience building scalable, accessible, and responsive web apps using React, Next.js, TypeScript, and Tailwind CSS. Currently working full-time at Addicta, contributing to production-level e-commerce and CMS platforms. Passionate about performance optimization, animation (Framer Motion, GSAP), and clean UI/UX.
-- 💬 **Ask me about**: Full Stack Development, Web Technologies, Freelancing  
+- 📋 **Objective**: Frontend Developer with hands-on experience building scalable, accessible, and responsive web apps using React, Next.js, TypeScript, and Tailwind CSS. Currently working full-time at Addicta, contributing to production-level e-commerce and CMS platforms. Passionate about performance optimization, animation (Framer Motion, GSAP), and clean UI/UX. 
 - 📫 **Reach me at**: [saifeldeenkhalaf@gmail.com](mailto:saifeldeenkhalaf@gmail.com) | **+201111138114**  
 - ⚡ **Fun fact**: I play the guitar!  
 
@@ -55,15 +54,6 @@
 
 <br>
 
-
-### 📂 Projects
-
-- **ERP System**: Developed a modular ERP system using React.js and Tailwind CSS for small to medium businesses, integrating Chart.js for financial data visualization.
-- **Weather Dashboard**: Built a minimalist weather dashboard with React, Tailwind CSS, and OpenWeatherMap API, featuring a responsive design and local storage for search history.
-
----
-
-
 ### 🛠️ Tools
 <div>
   <p style="display: inline-block;" align="center">
@@ -71,10 +61,10 @@
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="PHP"/> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java"/>  
     </kbd>
     <kbd>
       <kbd>Frontend</kbd>
@@ -89,7 +79,6 @@
       <kbd>Backend</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="rest" title="REST API"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" title="GraphQL"/>
     </kbd>
@@ -126,7 +115,3 @@
 
 ---
 
-### 📚 Courses/Trainings
-
-- **Front-End Web Development Bootcamp** - Sprints | 240+ hours (Sep 2024)
-- **Web Security Trainee** - Security Meters LLC | 120 hours (Aug 2022)
