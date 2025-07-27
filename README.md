@@ -105,7 +105,6 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="vscode" title="Visual Studio Code"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" alt="adobe" title="Adobe XD"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" title="Postman"/>
     </kbd>
   </p>
