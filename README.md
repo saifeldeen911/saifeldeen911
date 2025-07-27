@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Saifeldeen M. Khalaf</h1>
-<h3 align="center">Web Developer | Freelancer</h3>
+<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
@@ -11,10 +11,23 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Objective**: Frontend developer with React.js, JavaScript, HTML, CSS, and REST API experience. Eager to contribute to open-source projects while expanding into TypeScript. Passionate about building scalable, accessible web solutions and collaborating on innovative technologies.
+- 📋 **Objective**: Frontend Developer with hands-on experience building scalable, accessible, and responsive web apps using React, Next.js, TypeScript, and Tailwind CSS. Currently working full-time at Addicta, contributing to production-level e-commerce and CMS platforms. Passionate about performance optimization, animation (Framer Motion, GSAP), and clean UI/UX.
 - 💬 **Ask me about**: Full Stack Development, Web Technologies, Freelancing  
 - 📫 **Reach me at**: [saifeldeenkhalaf@gmail.com](mailto:saifeldeenkhalaf@gmail.com) | **+201111138114**  
 - ⚡ **Fun fact**: I play the guitar!  
+
+---
+
+## 🛠️ Experience
+
+### Frontend Web Developer  
+**Addicta** – Cairo, Egypt  
+*Apr 2025 – Present*
+
+- Built and maintained production-ready applications using React, Next.js, TypeScript, and Tailwind CSS.
+- Translated Figma designs into responsive, accessible UIs with animations and custom design systems.
+- Contributed to dashboards, admin panels, and dynamic frontend systems with API integrations.
+- Collaborated in agile sprints with designers, backend developers, and project managers.
 
 ---
 
@@ -44,30 +57,6 @@
 
 <br>
 
-# 💼 Experience
-
----
-
-## 🧑‍💻 Freelance Full Stack Web Developer  
-**Self-employed**  
-**Feb 2023 - Present**  
-**Location:** Egypt  
-
-**Key Responsibilities:**
-- Developed responsive web applications using React.js and Next.js.
-- Implemented server-side functionalities with PHP and Python.
-- Created and maintained databases for various projects.
-
-## 🛠️ IT Technician  
-**Passap Home Appliances** · 10th of Ramadan Industrial Zone, Egypt  
-**Jul 2023 – Jan 2024**  
-
-**Key Responsibilities:**
-- Delivered technical support for hardware, software, and network troubleshooting, enhancing problem-solving capabilities.
-- Assisted with system setup, configuration, and deployment, diagnosing and resolving technical issues.
-- Gained hands-on experience in understanding client requirements and providing timely solutions.
-
----
 
 ### 📂 Projects
 
